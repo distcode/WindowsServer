@@ -22,7 +22,7 @@ Perform these steps on VN1-SRV4.
     C:\LabResources\Solutions\Install-AdminCenter.ps1
     ````
 
->:exclamation:Attention: This script does not work anymore. To be able to proceed with the next practices and labs do the following.
+:exclamation:Attention: This script does not work anymore. To be able to proceed with the next practices and labs, do the following.
 
 Perform these steps after the script finished.
 
