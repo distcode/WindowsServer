@@ -54,3 +54,5 @@ Perform these steps on CL1.
     Get-WindowsCapability -Online -Name 'Rsat.GroupPolicy.Management.Tools*' |
     Add-WindowsCapability -Online    
     ````
+
+[Back to Overview](../WinGLA.md)

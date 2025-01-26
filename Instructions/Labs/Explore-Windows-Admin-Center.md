@@ -278,3 +278,5 @@ Perform this task on CL1.
 
 1. Click the icon *Filter* again.
 1. In Filter connections, click **Clear filter** and click **Save**.
+
+[Back to Overview](../WinGLA.md)

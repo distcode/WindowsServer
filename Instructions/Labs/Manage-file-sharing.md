@@ -654,3 +654,5 @@ Perform this task on CL2.
 1. In Finance (\\\\VN1-SRV10) Properties, click the tab **Previous Versions**.
 1. On the tab Previous Versions, click **Open**. A new File Explorer window opens.
 1. From the new File Explorer window, copy **3 Month Snapshot.xlsx** to the original **Finance** window.
+
+[Back to Overview](../WinGLA.md)

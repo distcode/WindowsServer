@@ -214,3 +214,5 @@ Perform these steps on VN1-SRV10.
 1. In **Performance Monitor**, verify the data collector set **Baseline** is running.
 1. In the context menu of **Baseline**, click **Stop**.
 1. In **Performance Monitor**, in the context menu of CPU time alert, click **Stop**.
+
+[Back to Overview](../WinGLA.md)

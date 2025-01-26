@@ -55,3 +55,5 @@ Perform these steps on VN2-SRV1.
     ````powershell
     Add-AppxPackage Microsoft.WindowsTerminal_*.msixbundle
     ````
+
+[Back to Overview](../WinGLA.md)

@@ -50,3 +50,5 @@ Perform these steps on CL1.
         Get-ItemProperty -Path $using:path -Name IPEnableRouter
     }
     ````
+
+[Back to Overview](../WinGLA.md)

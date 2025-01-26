@@ -33,3 +33,5 @@ Perform these steps on CL1.
     ````powershell
     cscript $env:windir\system32\slmgr.vbs /dli
     ````
+
+[Back to Overview](../WinGLA.md)

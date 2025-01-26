@@ -21,3 +21,5 @@ Perform these steps on VN1-SRV4.
     ````powershell
     C:\LabResources\Solutions\Install-AdminCenter.ps1
     ````
+
+[Back to Overview](../WinGLA.md)

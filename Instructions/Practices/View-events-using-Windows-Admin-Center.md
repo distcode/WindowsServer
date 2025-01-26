@@ -40,3 +40,5 @@ Perform these steps on CL1.
 1. **System, Application: Warnings and more** to open the  workspace again.
 
     Note: Due to a bug in the preview version, you might not see events in the Application log. Select the log again to refresh the events.
+
+[Back to Overview](../WinGLA.md)

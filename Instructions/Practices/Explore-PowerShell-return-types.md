@@ -40,3 +40,5 @@ Perform these steps on CL1.
     ````
 
 1. Repeat the steps above to find a cmdlet to get a list of installed services, get help about the cmdlet, try it and get information about the returned class.
+
+[Back to Overview](../WinGLA.md)

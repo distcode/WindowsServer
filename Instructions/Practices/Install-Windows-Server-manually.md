@@ -27,3 +27,5 @@ Perform these steps on the host.
 1. On page Where do you want to install the operating system, click **Next**.
 
 Do not wait for the installation to finish.
+
+[Back to Overview](../WinGLA.md)

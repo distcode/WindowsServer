@@ -180,3 +180,5 @@ Perform this task on CL1.
 
 1. Click the tab **Policy Events**.
 1. On the tab Policy Events, double click on events you are interested in and read the description.
+
+[Back to Overview](../WinGLA.md)

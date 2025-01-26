@@ -434,3 +434,5 @@ Perform this task on VN1-SRV5.
     ````
 
 1. Close all open graphical applications.
+
+[Back to Overview](../WinGLA.md)

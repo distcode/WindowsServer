@@ -63,3 +63,5 @@ Perform these steps on CL1.
 1. Press Ctrl + Shift + W to close the bottom-right section.
 1. Press Ctrl + Shift + P and explore the command palette.
 1. Click the down arrow and **Settings** (may display as **Einstellungen**) and explore the available settings.
+
+[Back to Overview](../WinGLA.md)

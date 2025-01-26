@@ -84,3 +84,5 @@ Perform these steps on CL1.
 1. At the bottom, under **Details - Administrators**, click **Add user**.
 1. In the pane Add a user to the Administrators group, in **Username**, type **LocalAdmin** and click **Submit**.
 1. Under **Details - Administrators**, verify LocalAdmin is a member.
+
+[Back to Overview](../WinGLA.md)

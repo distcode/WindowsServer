@@ -117,3 +117,5 @@ Perform these steps on CL1.
     ````
 
     The status should be started and the start type should be automatic on all computers.
+
+[Back to Overview](../WinGLA.md)

@@ -29,3 +29,5 @@ Perform these steps on CL1.
 1. On the page **Features**, click **Next >**.
 1. On the page **Confirmation**, verify your selection and click **Install**.
 1. On the page **Results**, wait for the installation to succeed, then click **Close**.
+
+[Back to Overview](../WinGLA.md)

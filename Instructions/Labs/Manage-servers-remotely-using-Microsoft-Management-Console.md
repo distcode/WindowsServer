@@ -199,3 +199,5 @@ Perform this task on CL1.
 1. Expand **Storage** and click **Disk Management**.
 
     > You should see the disk configuration.
+
+[Back to Overview](../WinGLA.md)

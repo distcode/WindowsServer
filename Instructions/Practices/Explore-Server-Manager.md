@@ -46,3 +46,5 @@ Perform these steps on CL1.
 1. In the left pane, click **All Servers**.
 1. Explore the differences in the context menu of various servers, especially of **VN1-SRV1** and others.
 1. Take some time to, explore the other options in the left pane.
+
+[Back to Overview](../WinGLA.md)
