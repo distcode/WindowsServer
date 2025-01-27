@@ -51,6 +51,8 @@ Perform these steps after the script finished.
 1. In the next window, *TLS certificate thumbprint*, open the list and select the available certificate and click **Next**.
 ![Select TLS certificate thumbprint 1](../../images/WAC-Select-certificate-thumbprint1.png)
 ![Select TLS certificate thumbprint 2](../../images/WAC-Select-certificate-thumbprint2.png)
+1. In the *Fully Qualified Domain Name* page, replace the FQDN by: **admincenter.ad.adatum.com** and click **Next**.
+![Fully Qualified Domain Name](../../images/WAD-Fully-Qualified-Domain-Name.png)
 1. For all remaining pages, accept the default values and click **Next** or **Install**.
 3. After the installation, deselect the only option in the last page and click **Finish**.
 
