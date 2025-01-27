@@ -54,6 +54,11 @@ Perform these steps after the script finished.
 1. In the *Fully Qualified Domain Name* page, replace the FQDN by: **admincenter.ad.adatum.com** and click **Next**.
 ![Fully Qualified Domain Name](../../images/WAC-Fully-Qualified-Domain-Name.png)
 1. For all remaining pages, accept the default values and click **Next** or **Install**.
-3. After the installation, deselect the only option in the last page and click **Finish**.
+1. After the installation, deselect the only option in the last page and click **Finish**.
+1. Restart the server VN1-SRV4:
+
+    ````powershell
+    Restart-Computer
+    ````
 
 [Back to Overview](../WinGLA.md)
